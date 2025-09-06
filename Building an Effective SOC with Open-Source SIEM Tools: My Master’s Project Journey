@@ -1,7 +1,0 @@
-*In today’s fast-moving digital world, organisations face an increasing range of cyber threats. 
-In today’s fast-moving digital world, organisations face an increasing range of cyber threats. To address these, having a Security Operations Centre (SOC) is crucial for protecting enterprise security. In this article, I’ll walk you through the design, implementation, and testing of a SOC I developed as part of my Master’s project at the University of Greenwich.
-
-The goal was to create a fully functional SOC for a fictional financial institution, the London Stock Exchange Group (LSEG), focused on improving its ability to detect and respond to threats while managing security logs. I used a range of open-source tools for this project, including Wazuh, The Hive, Cortex, MISP, and the ELK Stack. Below are some of the key technical elements and insights from the project.
-🌐 *
-
-📍 **Investigating an IP Address**
